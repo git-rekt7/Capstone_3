@@ -8,3 +8,7 @@ To effectively visualize my data I have employed the use of:
 * Pie Chart
 * Bar Chart
 * List
+
+Below is the link to my presentations
+
+https://yearuptemp-my.sharepoint.com/:v:/g/personal/callen_my_yearupunited_org/IQCdVLmBBDquTrH6KC_up8oWAXu7Ul97Gh0ypfAmRWA6n1M?e=wTN8kj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
